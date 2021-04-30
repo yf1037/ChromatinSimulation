@@ -187,6 +187,6 @@ for i in range(N+1):
     writeCFR(i,sim[i],fsim,maxiter,maxfun,xatol,fatol,rho,chi,psi,sigma,one2np1,N)
 print("initialized in {}".format(time.time() - start))
 
-subprocess.run(["bash", "optimization_iteration.sh", "{}".format(N+1)])
+subprocess.run(["bash", "optimization_iteration.sh", "{}".format(N)])
 
 
