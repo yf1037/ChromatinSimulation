@@ -8,7 +8,7 @@ from openmmlib.polymerutils import scanBlocks
 from openmmlib.openmmlib import Simulation
 from openmmlib.polymerutils import grow_rw
 
-sys.path.append('/gpfs/home/yf1037/simulation/cloned/examples/loopExtrusion/')
+sys.path.append('/gpfs/home/yf1037/simulation/codes/examples/loopExtrusion/')
 
 import pyximport; pyximport.install()
 from smcTranslocator import smcTranslocatorDirectional
