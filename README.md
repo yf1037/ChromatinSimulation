@@ -18,4 +18,6 @@ Calculate Spearman correlation of HiC map and simulated contact frequency (CPU n
 Simulation principle:  
 Use loop extrusion to model TADs (dynamic simulation)  
 Use sticky to model compartment interactions (steady-state simulation)  
-Chromatin is modeled as self avoiding chain  
+Chromatin is modeled as self avoiding chain   
+
+Detailed instructions are listed here: https://benchling.com/s/prt-pmc9UFB8L9CH1oC3XMLv?m=slm-JMEdZ2xLPXRdloEpvMJs
